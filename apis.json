@@ -1,0 +1,41 @@
+{
+    "name": "Kalima Systems",
+    "description": "Real Time Event management\r  \r  Professionnal use of IoT\r  \r  Discover",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28783-www-kalimadb-com.jpg",
+    "tags": [
+        "blockchain",
+        "buildings",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kalima-systems\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Kalima Systems",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28783-www-kalimadb-com.jpg",
+            "humanURL": "http:\/\/www.kalimadb.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kalima-systems-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/KalimaSystems"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.kalimadb.com"
+        }
+    ]
+}
